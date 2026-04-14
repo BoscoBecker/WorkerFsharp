@@ -1,0 +1,75 @@
+# Build results
+bin/
+obj/
+
+# Rider / VS Code / Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono / Xamarin
+*.pidb
+*.svclog
+*.userprefs
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+*.runtimeconfig.dev.json
+
+# Publish output
+publish/
+
+# Azure / local settings
+appsettings.Development.json
+local.settings.json
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains Rider
+.idea/
+
+# F# Interactive
+*.fsx.fs
+*.fsi.fs
+
+# Paket (se usar)
+.paket/
+paket-files/
+
+# Ionide (VS Code F#)
+.ionide/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Docker
+docker-compose.override.yml
